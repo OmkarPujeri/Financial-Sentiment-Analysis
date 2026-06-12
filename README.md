@@ -14,15 +14,13 @@ Fine-tuned **DistilBERT** (HuggingFace Transformers + PyTorch) on the Financial 
 
 ## Training Loss
 
-![Training Loss](<img width="790" height="390" alt="download" src="https://github.com/user-attachments/assets/64778580-707e-4a1d-a611-a95cda379b95" />
-)
+![Training Loss](https://github.com/user-attachments/assets/64778580-707e-4a1d-a611-a95cda379b95)
 
 Loss converged from **0.5695 → 0.2696 → 0.1605** over 3 epochs.
 
 ## Confusion Matrix
 
-![Confusion Matrix](<img width="652" height="490" alt="download (1)" src="https://github.com/user-attachments/assets/f3cb7ad4-ab7b-4123-9e2d-8547579f77c4" />
-)
+![Confusion Matrix](https://github.com/user-attachments/assets/f3cb7ad4-ab7b-4123-9e2d-8547579f77c4)
 
 ## Dataset
 
